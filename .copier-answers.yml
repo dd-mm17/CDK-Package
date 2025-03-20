@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 3179c16
+_src_path: gh:schwallergroup/copier-liac-minimal
+author_email: diego.meraldi@epfl.ch
+author_name: Diego
+github_org: true
+package_name: week5_02
+project_name: Week5_02
+short_description: Uses CD pa
